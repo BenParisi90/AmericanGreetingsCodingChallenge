@@ -1,9 +1,9 @@
-To Run:
-On Windows:
+Instructions to Run
+On Windows
 -Unzip AmericanGreetingsCodingChallenge_Windows.zip and run AmericanGreetings_UnityProject.exe
 
 OR
-On Android:
+On Android
 - Install AmericanGreetingsCodingChallenge.apk to your Android phone.
 
 To Build:
